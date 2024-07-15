@@ -11,14 +11,14 @@
 }
 
 :root {
-    --bg-color: #1f242d;
-    --second-bg-color: #323946;
-    --text-color: #fff;
-    --main-color: #0ef;
+    --bg-color: #2d1f2b;
+    --second-bg-color: #473044;
+    --text-color: #000000;
+    --main-color: rgb(255, 153, 0);
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 63%;
     overflow-x: hidden;
 }
 
@@ -29,7 +29,7 @@ body  {
 
 section {
     min-height: 100vh;
-    padding: 10rem 9% 2rem;
+    padding: 10rem 10% 2rem;
 }
 
 span {
@@ -41,7 +41,7 @@ span {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 2rem 9%;
+    padding: 2rem 10%;
     background: var(--bg-color);
     display: flex;
     justify-content: space-between;
@@ -93,7 +93,7 @@ span {
 }
 
 .about-img img:hover {
-    border: #0ef 0.5rem solid;
+    border: rgb(255, 153, 0) 0.5rem solid;
     box-shadow: 0 0 2rem var(--main-color);
 }
 
