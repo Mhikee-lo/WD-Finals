@@ -57,8 +57,6 @@
 ## Overview
 
 
-
-
 Personal Website Project
 This web repository is an evidence of what the writers have learned and the practical aspect of what has been taught throughout the term for web design. Here describes how the theoretical knowledge has been utilized in the actual technical programs. This README is an instruction how our work can be used and aimed to shows some real-world examples of the solution that we have implemented as well as our ability to comprehend the course materials in the practical context. This project entails developing an individual webpage, which is to be greater than one page in length, that demonstrates the skill as well as knowledge required in HTML and CSS. Basically, the website is fully interactive, which entails possible navigations and buttons that direct to other pages or even repositories on Github.
 
@@ -116,4 +114,8 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript | This is the reference I used to make this final project but instead I didn't use a javascript | https://www.youtube.com/watch?v=Tkp3FDgOueM&ab_channel=Codehal |
+| All the sources I used on this coding | This is the link I used because I cannot find all the videos I use for references| https://www.youtube.com/
+| This the friend who helps me in time of need and help me on my coding | To help me | https://github.com/LeoMiguelSeda
+|Designs I used| To apply to this code| https://uiverse.io/
+|Other ideas that come to mind| To help me pick something| https://www.pinterest.com/#search
+| The Prof behind all codes I learned | To teach us everything we need | https://github.com/zyx-0314
